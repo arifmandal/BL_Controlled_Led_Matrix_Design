@@ -139,6 +139,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZRCVKJHJ
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Bluetooth_Controlled_Led_Matrix_Design\Design Rule Check - Bluetooth_Controlled_Led_Matrix_Design.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=NameProject
 Value=BL Controlled Led Matrix Design
