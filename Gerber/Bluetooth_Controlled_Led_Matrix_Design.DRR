@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Bluetooth_Controlled_Led_Matrix_Design.PcbDoc   7.09.2024  18:22:31
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Bluetooth_Controlled_Led_Matrix_Design.TXT
+ASCII RectHoles File : Bluetooth_Controlled_Led_Matrix_Design-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      17mil (0.432mm)                                           Round             259       PTH        0.00inch (0.00mm)
+T2      39mil (0.991mm)                                           Round             7         PTH        0.00inch (0.00mm)
+T3      39mil (0.991mm)                                           Rectangle         3         PTH        0.00inch (0.00mm)
+T4      53mil (1.346mm)                                           Round             5         PTH        0.00inch (0.00mm)
+T5      55mil (1.397mm)                                           Round             2         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              276
+
+Total Processing Time (hh:mm:ss) : 00:00:01

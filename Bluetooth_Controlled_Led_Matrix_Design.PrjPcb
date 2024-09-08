@@ -139,7 +139,96 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZRCVKJHJ
 
+[Document7]
+DocumentPath=Bluetooth_Controlled_Led_Matrix_Design.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
+DocumentPath=Project Outputs for Bluetooth_Controlled_Led_Matrix_Design\NC Drill\Bluetooth_Controlled_Led_Matrix_Design-RectHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Bluetooth_Controlled_Led_Matrix_Design\NC Drill\Bluetooth_Controlled_Led_Matrix_Design.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Free Documents\Gerber\Bluetooth_Controlled_Led_Matrix_Design.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Free Documents\Gerber\Bluetooth_Controlled_Led_Matrix_Design.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Free Documents\Gerber\Bluetooth_Controlled_Led_Matrix_Design.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Free Documents\Gerber\Bluetooth_Controlled_Led_Matrix_Design.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Free Documents\Gerber\Bluetooth_Controlled_Led_Matrix_Design.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Free Documents\Gerber\Bluetooth_Controlled_Led_Matrix_Design.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Free Documents\Gerber\Bluetooth_Controlled_Led_Matrix_Design.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Free Documents\Gerber\Bluetooth_Controlled_Led_Matrix_Design.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Free Documents\Gerber\Bluetooth_Controlled_Led_Matrix_Design.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Free Documents\Gerber\Bluetooth_Controlled_Led_Matrix_Design.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Free Documents\Gerber\Bluetooth_Controlled_Led_Matrix_Design.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Free Documents\Gerber\Bluetooth_Controlled_Led_Matrix_Design.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Bluetooth_Controlled_Led_Matrix_Design\NC Drill\Bluetooth_Controlled_Led_Matrix_Design.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Free Documents\Gerber\Bluetooth_Controlled_Led_Matrix_Design.REP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Free Documents\Gerber\Bluetooth_Controlled_Led_Matrix_Design.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Bluetooth_Controlled_Led_Matrix_Design\NC Drill\Bluetooth_Controlled_Led_Matrix_Design.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument19]
 DocumentPath=Project Outputs for Bluetooth_Controlled_Led_Matrix_Design\Design Rule Check - Bluetooth_Controlled_Led_Matrix_Design.html
 DItemRevisionGUID=
 
@@ -156,6 +245,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs

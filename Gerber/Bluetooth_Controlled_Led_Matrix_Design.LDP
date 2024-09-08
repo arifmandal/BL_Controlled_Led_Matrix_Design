@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\PCB\Bluetooth_Controlled_Led_Matrix_Design\Bluetooth_Controlled_Led_Matrix_Design.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=bluetooth_controlled_led_matrix_design.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=bluetooth_controlled_led_matrix_design-rectholes.txt|DrillLayers=gtl,gbl
